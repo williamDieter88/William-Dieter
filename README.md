@@ -5,7 +5,7 @@
   - :heavy_check_mark: Back-end Development
   - :heavy_check_mark: Computer Cience
 
-- I currently work at Serpro [IDEALOGIC](https://www.idealogic.com.br/)
+- I currently work at [IDEALOGIC](https://www.idealogic.com.br/)
 
 ## 🚀💻 Technologies & Tools
  
