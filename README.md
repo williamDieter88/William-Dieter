@@ -5,23 +5,31 @@
   - :heavy_check_mark: Back-end Development
   - :heavy_check_mark: Computer Cience
 
-<h3>Technologies & Tools</h3>
-<div>
-    <img alt="Nodejs"
-      src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="MongoDB"
-      src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
-    <img alt="Jest" src="https://img.shields.io/badge/-Jest-96737D?style=flat-square&logo=jest&logoColor=99425B" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-333E72?style=flat-square&logo=python&logoColor=yellow" />
-<div/>
+## 🚀💻 Technologies & Tools
+ 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### 📫 How to reach me
+  
+  
+
+
+## 📫 How to reach me
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/william-dieter/)
  
+## ⚡ GitHub Stats
+
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamDieter88&show_icons=true&theme=merko)](https://github.com/williamDieter88/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamDieter88&hide=TeX&layout=compact)
