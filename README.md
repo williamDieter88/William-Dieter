@@ -34,4 +34,4 @@
 
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamDieter88&show_icons=true&theme=merko)](https://github.com/williamDieter88/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamDieter88&theme=dracula&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamDieter88&theme=merko&hide_border=true&layout=compact)
