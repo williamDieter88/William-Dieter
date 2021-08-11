@@ -1,5 +1,5 @@
 ### Hey, I'm William Dieter
-- I studied Software Development at Trybe <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' /> 
+- Studying software development at Trybe.  <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' /> 
   - :heavy_check_mark: Web Development Introduction
   - :heavy_check_mark: Front-end Development
   - :heavy_check_mark: Back-end Development
