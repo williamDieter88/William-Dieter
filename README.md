@@ -27,6 +27,7 @@
 
 ## 📫 How to reach me
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/william-dieter/)
+  [![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-dieter/)](https://www.linkedin.com/in/william-dieter/)
  
 ## ⚡ GitHub Stats
 
